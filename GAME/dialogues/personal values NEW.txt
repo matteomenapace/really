@@ -1,0 +1,14 @@
+passive_active
+intro_extroverted
+fair
+trustful (influenzabile, contrario di indifferente)
+excited_calm
+sad_happy
+
+"Thomas", capelli: #CFB963, pelle #FFC892, #C89B6F
+"Kabir", capelli: #221700, pelle #B58957, #89673F
+"Mark", capelli: #E9CF96, pelle #FFC892, #C89B6F
+"Jules", capelli: #95411E, pelle #FFC892, #C89B6F
+"Aileen", capelli: #FBEE84, pelle #F5D8BC, #F0BA97
+"Yasmin", capelli: #332300, pelle #895727, #61381F
+"Laura", capelli: #000000, pelle #DAB589, #AD8967
